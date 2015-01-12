@@ -6,7 +6,7 @@ Roll Call:
 * 关京晶 (signature added)
 * Kuba (signature added)
 * 李新年(signature added)
-* 姜峰
+* 姜峰(signature added)
 * 江似练
 * 关鑫
 * 冯姝婷
