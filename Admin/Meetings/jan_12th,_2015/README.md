@@ -1,11 +1,11 @@
-# Jan 12th, 2015
+﻿# Jan 12th, 2015
 
 Meeting Minutes Mon 12, Jan, 13:45
 
 Roll Call:
 * 关京晶
 * Kuba (signature added)
-* 李新年
+* 李新年(signature added)
 * 姜峰
 * 江似练
 * 关鑫
@@ -149,7 +149,6 @@ All in favor
 
 Finish Time 15:32
 Aye
-
 
 
 
