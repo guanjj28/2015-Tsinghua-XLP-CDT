@@ -3,13 +3,13 @@
 Meeting Minutes Mon 12, Jan, 13:45
 
 Roll Call:
-* 关京晶
+* 关京晶 (signature added)
 * Kuba (signature added)
 * 李新年(signature added)
 * 姜峰(signature added)
-* 江似练
+* 江似练(signature added)
 * 关鑫
-* 冯姝婷
+* 冯姝婷(signature added)
 * 薛源
 * 王德宇（14：15）
 
