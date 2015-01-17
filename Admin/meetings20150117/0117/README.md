@@ -1,4 +1,4 @@
-
+﻿
 # 挑战方每日会议
 
 2015年01月17日会议
@@ -59,4 +59,5 @@
 
 ##会议人员确认
 
- * 姜峰(signature added)
+ * 姜峰(signature added) 
+ * 冯姝婷(signature added) 
