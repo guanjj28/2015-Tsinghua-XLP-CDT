@@ -60,7 +60,8 @@
 ##会议人员确认
 
  * 顧學雍 (signed)
- * 姜峰(signed) 
- * 冯姝婷(signed) 
+ * 姜峰(signed)
+ * 冯姝婷(signed)
  * Kuba (signed)
+ * 关鑫(signed)
 
