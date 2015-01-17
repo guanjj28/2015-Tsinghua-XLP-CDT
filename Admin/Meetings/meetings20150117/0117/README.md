@@ -59,5 +59,8 @@
 
 ##会议人员确认
 
- * 姜峰(signed)
  * 顧學雍 (signed)
+ * 姜峰(signed) 
+ * 冯姝婷(signed) 
+ * Kuba (signed)
+
