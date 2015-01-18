@@ -1,0 +1,51 @@
+我把所有用到的文件都打包到一个压缩包中 
+
+名称：ID制作文件
+
+一、卡片正面更改的内容
+last name ：
+
+first name：
+
+gender 性别 ：男M / 女 F
+
+nationality : 国家 USA / CHINA
+
+Date of birth eg: 30-11-1973
+
+DATE OF BIRTH：26-01-2015
+        issue：26-01-2025
+
+place of birth 籍贯 ： (如SICHUN) 
+
+certificate No：CN-出生年月日-身份证尾号
+
+条形码生成地址：
+http://www.baidu.com/s?wd=%E6%9D%A1%E5%BD%A2%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8&ie=utf-8&f=8&rsv_bp=1&tn=baidu&rsv_pq=92b512c400000417&rsv_t=5114CdSKiVPfLkcOYC1dWGeaxkjmOIc%2BdSOAunQJWd3XI6Q6C7q42wRbt1Y&bs=%E6%9D%A1%E5%BD%A2%E7%A0%81
+
+条形码制作方法： 打开地址后在数据空中填写：CN-出生年月日-身份证尾号
+
+备注:CN代表中国 US代表美国
+
+二、卡片背面更改内容
+
+更改二维码就可以了
+
+
+背面的二维码的生成地址是：http://www.wwei.cn/
+
+填写下面的信息：
+姓名：
+电话：
+邮箱：
+公司：学校名称（如清华大学）
+职位：学生
+个人主页：（备注：如果资料上有那就写。没有就不写。）
+工作地址：（学校名称）
+家庭住址：（看资料）
+
+备注：生成二维码上面有图片、图片下有  图片Logo：选择文件，我把图片已经打包到压缩包中。
+
+
+
+
